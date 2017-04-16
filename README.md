@@ -1,10 +1,6 @@
 # WebRtcTest
 WebRtc Audio Test
 
-makfile方案放弃
-windows：vs
-macosx：xcode
-
 降噪采用github webrtc的算法
 
 使用方法：
