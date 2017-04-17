@@ -18,6 +18,8 @@ int main(int argc, const char * argv[]) {
             WebRtcAgcTest("byby_8K_1C_16bit.pcm","byby_8K_1C_16bit_agc.pcm",8000);
             NoiseSuppression32("lhydd_1C_16bit_32K.PCM","lhydd_1C_16bit_32K_ns.pcm",32000,1);
             NoiseSuppressionX32("lhydd_1C_16bit_32K.PCM","lhydd_1C_16bit_32K_nsx.pcm",32000,1);
+            
+            //NoiseSuppression32("0405.wav","0405_ns.pcm",32000,1);
         } else {
             //可以通过配置文件处理
 //            WebRtcAgcTest(argv[1], argv[2],8000);

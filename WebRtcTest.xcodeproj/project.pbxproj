@@ -41,7 +41,7 @@
 		4A515A8C1EA37A5B00D32984 /* spl_sqrt.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A515A6A1EA37A5B00D32984 /* spl_sqrt.c */; };
 		4A515A8D1EA37A5B00D32984 /* splitting_filter.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A515A6B1EA37A5B00D32984 /* splitting_filter.c */; };
 		4A515A8E1EA37A5B00D32984 /* vector_scaling_operations.c in Sources */ = {isa = PBXBuildFile; fileRef = 4A515A6D1EA37A5B00D32984 /* vector_scaling_operations.c */; };
-		4A777B341EA3765C00120569 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A777B331EA3765C00120569 /* main.m */; };
+		4AB3DB901EA50681004C24A0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A777B331EA3765C00120569 /* main.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -301,11 +301,11 @@
 				4A515A7B1EA37A5B00D32984 /* min_max_operations.c in Sources */,
 				4A515A771EA37A5B00D32984 /* downsample_fast.c in Sources */,
 				4A515A891EA37A5B00D32984 /* ring_buffer.c in Sources */,
-				4A777B341EA3765C00120569 /* main.m in Sources */,
 				4A515A6F1EA37A5B00D32984 /* analog_agc.c in Sources */,
 				4A515A801EA37A5B00D32984 /* nsx_core_neon_offsets.c in Sources */,
 				4A515A7C1EA37A5B00D32984 /* noise_suppression_x.c in Sources */,
 				4A515A711EA37A5B00D32984 /* complex_fft.c in Sources */,
+				4AB3DB901EA50681004C24A0 /* main.m in Sources */,
 				4A515A721EA37A5B00D32984 /* copy_set_operations.c in Sources */,
 				4A515A831EA37A5B00D32984 /* resample_48khz.c in Sources */,
 				4A515A8E1EA37A5B00D32984 /* vector_scaling_operations.c in Sources */,
